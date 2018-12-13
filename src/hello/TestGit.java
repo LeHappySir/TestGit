@@ -12,6 +12,6 @@ public class TestGit {
         this.name = name;
     }
     private void testMethod(){
-
+        System.out.println("Master");
     }
 }
