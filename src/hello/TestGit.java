@@ -1,7 +1,9 @@
 package hello;
 
 /**
- * Created by 81975 on 2018/12/13.
+ * 2.0
  */
 public class TestGit {
+    private int age;
+    private String name;
 }
