@@ -1,7 +1,7 @@
 package hello;
 
 /**
- * 3.0
+ * 4.0
  */
 public class TestGit {
     private int age;
@@ -12,6 +12,6 @@ public class TestGit {
         this.name = name;
     }
     private void testMethod(){
-
+        System.out.println("Happy");
     }
 }
