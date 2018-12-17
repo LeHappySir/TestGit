@@ -13,5 +13,8 @@ public class TestGit {
     }
     private void testMethod(){
         System.out.println("Master");
+        System.out.println("Happy");
+        System.out.println("Second");
+        System.out.println("Third Test");
     }
 }
